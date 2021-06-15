@@ -1,3 +1,4 @@
+/**/
 int foo(int x) {
   int y = 0;
 
